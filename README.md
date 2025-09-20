@@ -4,7 +4,7 @@ Sales Engineer who ships proof - I turn discovery into demos and mini POCs that 
 
 **Portfolio:** https://<your-carrd-url>  
 **Email:** SavinoPicciotto@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/savino-picciotto-0a378b382
+**LinkedIn:** https://www.linkedin.com/in/savino-picciotto
 
 ## Pin these repos
 - `support-rag-sandbox` - demo RAG assistant using help center + macros
