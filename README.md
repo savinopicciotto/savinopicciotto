@@ -13,8 +13,9 @@ Sales Engineer who ships proof. I turn discovery into demos and mini POCs that c
 - 60–90 sec Looms with next steps
 
 ## Pin these repos
-- **support-rag-sandbox** - demo RAG assistant using help center + macros
-- **analytics-mini-poc** - tiny analytics proof with 3 KPI moments
+- **[support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox)** — RAG assistant over help center + macros (answers 10 support questions with citations)
+- **[analytics-mini-poc](https://github.com/savinopicciotto/analytics-mini-poc)** — tiny analytics proof (REST → CSV, SQL joins, 3 KPI moments)
+
 
 ## Recent work
 - Ingested 150 help docs + 30 macros to answer 10 support questions with citations
