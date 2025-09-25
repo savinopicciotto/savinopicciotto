@@ -1,4 +1,4 @@
-### Savino Picciotto — Sales Engineer
+### Savino Picciotto - Sales Engineer
 
 I turn discovery into tight demos and mini POCs that close.
 
