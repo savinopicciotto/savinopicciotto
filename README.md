@@ -1,16 +1,14 @@
-# Savino Picciotto
+### Savino Picciotto — Sales Engineer
 
-Sales Engineer who ships proof. I turn discovery into demos and mini POCs that close.  
-**Book 15 min:** https://calendly.com/savinop/intro
+I turn discovery into tight demos and mini POCs that close.
 
-**Portfolio:** https://savino.carrd.co  
-**Email:** SavinoPicciotto@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/savino-picciotto
+**Proof moments**
+- Cited answers on messy phrasing
+- Miss → fix loop with logs
+- Observability + evals
 
-## What I ship
-- Tailored demos with 3 proof moments - answer 8 of 10 gold questions
-- Mini POCs - acceptance tests, shareable URL, README
-- 60–90 sec Looms with next steps
+👉 **Book 15 min:** https://calendly.com/savinop/intro  
+Portfolio: https://savino.carrd.co • LinkedIn: https://www.linkedin.com/in/savino-picciotto
 
 ## Pin these repos
 - **[support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox)** — RAG assistant over help center + macros (answers 10 support questions with citations)
