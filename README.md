@@ -2,13 +2,14 @@
 
 I turn discovery into tight demos and mini POCs that close.
 
+- [**Book 15 min**](https://calendly.com/savinop/intro)
+- [Portfolio](https://savino.carrd.co)
+- [LinkedIn](https://www.linkedin.com/in/savino-picciotto)
+
 **Proof moments**
 - Cited answers on messy phrasing
 - Miss → fix loop with logs
 - Observability + evals
-
-👉 **Book 15 min:** https://calendly.com/savinop/intro  
-Portfolio: https://savino.carrd.co • LinkedIn: https://www.linkedin.com/in/savino-picciotto
 
 ## Pin these repos
 - **[support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox)** — RAG assistant over help center + macros (answers 10 support questions with citations)
