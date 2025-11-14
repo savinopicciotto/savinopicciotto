@@ -2,7 +2,7 @@
 
 I turn discovery into tight demos and mini POCs that close.
 
-- [Start mini POC · $2k+](https://stan.store/Savino/p/minipoc?utm_source=readme-analytics&utm_medium=link&utm_campaign=mini_poc)
+- [72hour demo · $2.5k](https://stan.store/Savino/p/-72hour-demo-25k-credited-to-build)
 - [Book 15-min intro](https://calendly.com/savinop/intro?utm_source=readme-analytics&utm_medium=link&utm_campaign=book_intro) 
 - [Portfolio](https://savino.carrd.co)
 - [LinkedIn](https://www.linkedin.com/in/savino-picciotto)
