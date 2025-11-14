@@ -13,6 +13,7 @@ I turn discovery into tight demos and mini POCs that close.
 - Observability + evals
 
 ## Pin these repos
+- **[MAC Dazzle - Astrology App](https://github.com/savinopicciotto/mac-dazzle-astrology)** - Emergency rescue for MAC Cosmetics brand event. Built in 48 hours when original code failed.
 - **[support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox)** — RAG assistant over help center + macros (answers 10 support questions with citations)
 - **[analytics-mini-poc](https://github.com/savinopicciotto/analytics-mini-poc)** — tiny analytics proof (REST → CSV, SQL joins, 3 KPI moments)
 
