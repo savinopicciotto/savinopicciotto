@@ -5,7 +5,7 @@ AI Solutions Consultant based in Brooklyn, NY.
 I build production AI systems that solve real business problems. Discovery to deployment. Ongoing client success.
 
 **Current:**
-- Building [DocStream AI](https://savino.carrd.co) - AI document intelligence for construction companies
+- Building [SubtleDoc AI](https://savino.carrd.co) - AI document intelligence for construction companies
 - Shipping production systems with Claude API, Gmail API, vector databases, and cloud infrastructure
 
 **Recent work:**
