@@ -1,23 +1,24 @@
-### Savino Picciotto - Sales Engineer
+### Savino Picciotto
 
-I turn discovery into tight demos and mini POCs that close.
+AI Solutions Consultant based in Brooklyn, NY.
 
-- [72-hour demo · $2.5k](https://stan.store/Savino/p/-72hour-demo-25k-credited-to-build)
-- [Book 15-min intro](https://calendly.com/savinop/intro?utm_source=readme-analytics&utm_medium=link&utm_campaign=book_intro) 
-- [Portfolio](https://savino.carrd.co)
-- [LinkedIn](https://www.linkedin.com/in/savino-picciotto)
+I build production AI systems that solve real business problems. Discovery to deployment. Ongoing client success.
 
-**Proof moments**
-- Cited answers on messy phrasing
-- Miss → fix loop with logs
-- Observability + evals
+**Current:**
+- Building [DocStream AI](https://savino.carrd.co) - AI document intelligence for construction companies
+- Shipping production systems with Claude API, Gmail API, vector databases, and cloud infrastructure
 
-## Pin these repos
-- **[MAC Dazzle - Astrology App](https://github.com/savinopicciotto/mac-dazzle-astrology)** — Emergency rescue for MAC Cosmetics brand event. Built in 48 hours when original code failed.
-- **[support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox)** — RAG assistant over help center + macros (answers 10 support questions with citations)
-- **[analytics-mini-poc](https://github.com/savinopicciotto/analytics-mini-poc)** — tiny analytics proof (REST → CSV, SQL joins, 3 KPI moments)
+**Recent work:**
+- **Moneybrook Farm** - AI document system for $2M+ construction project. Gmail integration, semantic search, auto-classification. Live in production, delivered a month early.
+- **MAC Cosmetics / Estee Lauder** - Rescued Fortune 500 event app in 48 hours. 250+ personalized guest experiences, zero downtime.
+- **Support RAG Sandbox** - RAG assistant over 150 help articles. 10/10 gold questions answered with citations.
 
+**Stack:** Python, FastAPI, Claude API, Gmail API, ChromaDB, Render, REST APIs, OAuth 2.0, SQL
 
-## Recent work
-- Ingested 150 help docs + 30 macros to answer 10 support questions with citations
-- REST to CSV, SQL joins, surfaced 3 KPIs with a tiny API + notebook
+**Pinned repos:**
+- [doc-intelligence-demo](https://github.com/savinopicciotto/doc-intelligence-demo) - AI document intelligence system (production)
+- [mac-dazzle-astrology](https://github.com/savinopicciotto/mac-dazzle-astrology) - Fortune 500 event app, 48-hour emergency rescue
+- [support-rag-sandbox](https://github.com/savinopicciotto/support-rag-sandbox) - RAG with citations, 10/10 accuracy
+- [analytics-mini-poc](https://github.com/savinopicciotto/analytics-mini-poc) - REST API to KPI proof moments
+
+[Portfolio](https://savino.carrd.co) | [LinkedIn](https://www.linkedin.com/in/savino-picciotto)
